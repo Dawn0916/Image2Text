@@ -19,6 +19,7 @@
 `python image2text.py example_images --lang eng`
 
 ## German without preprocessing
-`python image2text.py scans/ --lang deu --no-preprocess`
+`python image2text.py path/to/folder --lang deu --no-preprocess`
+`python image2text.py example_images --lang deu --no-preprocess`
 
 

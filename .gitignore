@@ -18,3 +18,17 @@ build/
 .vscode/
 .DS_Store
 *.log      
+output/
+logs/
+*.sqlite3
+*.db
+*.sqlite
+*.bak
+*.swp
+example_images/
+*.pem
+*.key
+*.crt
+*.env
+*.local
+*.test
